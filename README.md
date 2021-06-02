@@ -16,7 +16,7 @@ This is an analysis of various cryptocurrencies for an investment bank that want
 
 We have 532 various cryptocurrencies at hand. The four clusters can be seen in the 3D visual below. The 2D visual describes the relationship between every cryptocurrency from the csv file to overall coins mined and overall coin supply. 
 
-![image2](https://github.com/TamaraGR/Cryptocurrencies/blob/main/img2.png)
+![image2](https://github.com/TamaraGR/Cryptocurrencies/blob/main/Resources/img2.png)
 
-![image1](https://github.com/TamaraGR/Cryptocurrencies/blob/main/img1.png)
+![image1](https://github.com/TamaraGR/Cryptocurrencies/blob/main/Resources/img1.png)
 
